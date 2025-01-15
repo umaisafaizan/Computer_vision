@@ -1,1 +1,24 @@
+1. Dog Dataset Preparation
+Key Features:
+Curated dataset of dog images across various breeds, environments, and poses.
+Annotation of images using tools like LabelImg or Roboflow to label dogs for training.
+Dataset split into training, validation, and testing subsets.
+
+
+
+
+2. Model Training
+Framework: YOLOv5
+
+
+
+3. React Native Mobile Integration
+Framework: React Native
+
+
+
+
+Description : 
+             A cutting-edge Mobile Dog Recognition App designed for real-time detection and identification of dogs using YOLOv5 and deployed as a mobile application built with React Native. This project combines the power of deep learning and mobile technology to deliver accurate and efficient dog recognition on the go.
+
 
