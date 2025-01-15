@@ -1,1 +1,24 @@
+1. Dataset Preparation
+Collect and annotate images for the specific type of violations you want to detect (e.g., traffic violations, safety helmet detection, etc.).
+Use tools like LabelImg or Roboflow for annotation, ensuring labels match your violation categories.
+Split the dataset into training, validation, and test sets for effective model evaluation.
+
+
+
+2. Web Integration
+Backend:
+Use Django or Flask to serve the YOLOv5 model and handle incoming requests for violation detection.
+Process uploaded videos or images and run inference using YOLOv5.
+
+
+
+3. Model Training
+Framework: YOLOv5
+
+
+
+
+Description : 
+             The Web Violation Detection Project leverages YOLOv5 to detect violations such as traffic rule breaches, workplace safety issues, or other compliance-related activities in real time. The system is designed to process video streams or images and identify predefined violations with high accuracy.
+
 
