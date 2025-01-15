@@ -1,1 +1,20 @@
+1. Dataset Preparation
+Key Features:
+Collect images of feet from multiple angles and distances.
+Annotate images with bounding boxes around feet using tools like LabelImg or Roboflow.
+Include measurement references (e.g., a standard ruler or object) in images for accurate scaling.
+Split dataset into training, validation, and testing sets.
+
+
+
+
+2. Model Training
+Framework: YOLOv5
+
+
+
+
+Description :
+             A project designed to accurately detect and measure foot dimensions using YOLOv5. This system leverages state-of-the-art object detection to identify feet in images and estimate their dimensions, enabling applications such as footwear sizing, custom shoe fitting, and medical orthotics.
+
 
