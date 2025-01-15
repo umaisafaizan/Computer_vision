@@ -1,1 +1,25 @@
+1. Data Preprocessing
+Key Features:
+Handles volumetric data (e.g., medical scans, 3D models) in formats such as .nii, .dcm, .obj, etc.
+Normalizes and resizes 3D data for consistent input to the model.
+Augmentation techniques for improved model generalization.
+
+
+
+2. Model Architecture
+Framework: PyTorch
+
+
+
+
+Deployment
+Technology Stack:
+Programming Language: Python
+Deep Learning Framework: PyTorch
+Visualization Tools: Matplotlib, PyVista, or Mayavi
+
+
+
+Description : 
+             A robust 3D Segmentation system designed to process and analyze volumetric data, enabling precise segmentation of objects or regions in 3D space. Built using PyTorch for deep learning capabilities and Python for flexibility, this project is tailored for tasks such as medical imaging, 3D object recognition, and scene understanding.
 
