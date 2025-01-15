@@ -1,1 +1,20 @@
+1. Dataset Preparation
+Key Features:
+Custom dataset collection with images of axes in various scenarios and lighting conditions.
+Dataset annotations using tools like LabelImg or Roboflow.
+Splits dataset into training, validation, and testing sets.
+
+
+
+
+2. Model Training
+Framework: YOLOv5
+
+
+
+
+
+Description : 
+             An advanced Axe Detection System designed for real-time identification and localization of axes in images and videos. Built using YOLOv5, this project leverages state-of-the-art object detection technology to achieve high accuracy and speed in detecting axes for safety, inventory, or monitoring purposes.
+
 
