@@ -1,1 +1,26 @@
+1. Dataset Preparation
+Key Features:
+Collect high-quality images of hands with diverse nail shapes, sizes, and skin tones.
+Annotate nail regions using segmentation tools like COCO Annotator or LabelMe.
+Split the dataset into training, validation, and test sets.
 
+
+
+
+2. Model Training
+Framework: Mark R-CNN
+
+
+
+
+Frontend:
+Use web technologies like ReactJS or VueJS for a dynamic and responsive user interface.
+Allow users to upload hand images and choose nail colors or designs.
+
+Backend:
+Use Django or Flask to process images with the trained segmentation model.
+
+
+
+Description : 
+             The Web Nail Try-On Project utilizes Mark R-CNN for advanced nail segmentation, enabling users to virtually try on nail colors and designs in a web-based environment. This application offers a seamless and interactive platform for users to visualize how different nail styles would look on their hands.
