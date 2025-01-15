@@ -1,1 +1,18 @@
+1. Dataset Preparation
+Key Features:
+Collect worksheet images with diverse layouts, including handwritten and printed text.
+Annotate images for components like text regions, images, and form fields using tools like LabelImg.
+Split dataset into training, validation, and testing subsets.
 
+
+
+
+2. Model Training
+Framework: YOLOv5
+
+
+
+
+
+Description :
+             The Mobile Worksheet OCR Project leverages YOLOv5 for object detection to identify worksheet components such as text, images, and fields, and integrates OCR capabilities to extract the textual content. This solution is designed for educational and professional use, enabling efficient digitization of worksheets directly from a mobile device.
