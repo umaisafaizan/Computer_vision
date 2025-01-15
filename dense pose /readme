@@ -1,1 +1,19 @@
+1. Dataset Preparation
+Key Features:
+Utilizes datasets like COCO DensePose with pixel-level annotations for human body parts.
+Preprocessing of images to match model requirements (resizing, normalization).
+Splits dataset into training, validation, and testing sets.
+
+
+
+
+2. Model Configuration
+Framework: Detectron
+
+
+
+
+Description :
+             DensePose is a project that maps human pixels from an image to a 3D surface model of the human body. This implementation uses Detectron, a state-of-the-art modular object detection framework, to achieve accurate and efficient dense pose estimation for humans in images and videos.
+
 
